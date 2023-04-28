@@ -9,8 +9,16 @@ body{
     margin: 22px;
     box-shadow: 0 0 10px rgba(0 0 0 .2);
 }
-h1{
+header{
+    background: #0c2461;
+    color: #fff;
+    padding: 20px;
     text-align: center;
+
+}
+h1{
+    margin: 0;
+    font-size: 36px;
 }
 .container{
 
